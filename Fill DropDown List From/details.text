@@ -1,0 +1,9 @@
+database records in ASP.Net using  VB.Net.
+The data will be populated from database table using DataReader.
+
+Inside the Page Load event of the page, the DropDownList is populated with the records of the Customers Table.
+
+DataTextField – The values of the Column set as DataTextField are visible to the user.
+
+
+DataValueField – The values of the Column set as DataValueField are not visible to the user. Generally ID or Primary Key columns are set as values in order to uniquely identify a DropDownList Item.
